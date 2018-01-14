@@ -1,6 +1,6 @@
 # typescript && comonjs demo 
 
-##  for comonjs 
+##  for commonjs 
 ```bash
 me.js  && me.d.ts
 
