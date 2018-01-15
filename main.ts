@@ -3,7 +3,7 @@ import {user} from "./user";
 import shortid  =require("shortid");
 import me  = require("./me");
 const meinfo = new me("rongfengliang");
-//const user =require("./user"); // with require  and user must define require function
+import user2 =require("./user"); // with require  and user must define require function
 const appinfo =new app("ddd");
 appinfo.name="dalongdemo"
 const userapp =new user("ddd");
